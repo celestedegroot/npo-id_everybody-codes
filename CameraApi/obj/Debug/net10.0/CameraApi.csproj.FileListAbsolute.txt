@@ -32,3 +32,6 @@
 /home/celeste/npo-id_everybody-codes/CameraApi/obj/Debug/net10.0/CameraApi.genruntimeconfig.cache
 /home/celeste/npo-id_everybody-codes/CameraApi/obj/Debug/net10.0/ref/CameraApi.dll
 /home/celeste/npo-id_everybody-codes/CameraApi/obj/Debug/net10.0/CameraApi.sourcelink.json
+/home/celeste/npo-id_everybody-codes/CameraApi/bin/Debug/net10.0/CameraApi.staticwebassets.runtime.json
+/home/celeste/npo-id_everybody-codes/CameraApi/obj/Debug/net10.0/compressed/8bcbe99pma-{0}-9xn7c0yoz2-9xn7c0yoz2.gz
+/home/celeste/npo-id_everybody-codes/CameraApi/obj/Debug/net10.0/compressed/uejoh7qw10-{0}-jtz58z3x49-jtz58z3x49.gz

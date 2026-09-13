@@ -1,6 +1,4 @@
-﻿using System.Net.Http.Headers;
-using System.Net.Http.Json;
-using Microsoft.VisualBasic;
+﻿using System.Net.Http.Json;
 
 class Program
 {

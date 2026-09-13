@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <meta charset="utf-8">
+  <title>NPO | Security cameras Utrecht</title>
+  <!-- Video camera Icon by Martz90 available at http://www.iconarchive.com/show/circle-icons-by-martz90/video-camera-icon.html under a Creative Commons Attribution-Noncommercial-No Derivate 4.0. Full terms at http://creativecommons.org/licenses/by-nc-nd/4.0 -->
+  <link rel="icon" type="image/x-icon" href="video-camera-icon.png">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+  <!-- Leaflet stuff -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+  <style type="text/css">
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      padding: 16px;
+      font-family: Roboto, sans-serif;
+    }
+
+    a {
+      color: #ff6e00;
+    }
+
+    #source {
+      background: #f2f2f2;
+      padding: 8px;
+      margin: 16px auto;
+      text-align: center;
+      font-size: 0.8rem;
+    }
+
+    #source a {
+      font-weight: bold;
+    }
+
+    h1 {
+      padding: 20px 0 20px 55px;
+      margin: 0 0 0 20px;
+      background: url("video-camera-icon.png") no-repeat;
+      background-size: 40px;
+      background-position: 0 50%;
+    }
+
+    #camerasContainer {
+      margin-top: 16px;
+      display: flex;
+      width: 100%;
+      gap: 16px;
+      justify-content: space-between;
+    }
+
+    #camerasContainer table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.8rem;
+    }
+
+    #camerasContainer table th {
+      background: #f2f2f2;
+      padding: 8px;
+      text-align: left;
+    }
+
+    #camerasContainer table tr:first-child {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+
+    #map {
+      width: 100%;
+      height: 500px;
+      background-color: #f2f2ff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #999;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Security camera's Utrecht</h1>
+  <div id="mapid"></div>
+  <main>
+    <div id="map"></div>
+    
+    <script src="js/site.js"></script>
+
+    <div id="camerasContainer">
+      <table id="cameras-0-until-600">
+        <thead>
+          <tr>
+            <th colspan="4">Camera's tot 600</th>
+          </tr>
+          <tr>
+            <th>Nummer</th>
+            <th>Naam</th>
+            <th>Latitude</th>
+            <th>Longitude</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Camera's... -->
+        </tbody>
+      </table>
+      
+      <table id="cameras-600-until-700">
+        <thead>
+          <tr>
+            <th colspan="4">Camera's 600 tot 700</th>
+          </tr>
+          <tr>
+            <th>Nummer</th>
+            <th>Naam</th>
+            <th>Latitude</th>
+            <th>Longitude</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Camera's... -->
+        </tbody>
+      </table>
+      
+      <table id="cameras-700-until-800">
+        <thead>
+          <tr>
+            <th colspan="4">Camera's 700 tot 800</th>
+          </tr>
+          <tr>
+            <th>Nummer</th>
+            <th>Naam</th>
+            <th>Latitude</th>
+            <th>Longitude</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Camera's... -->
+        </tbody>
+      </table>
+      
+      <table id="cameras-rest">
+        <thead>
+          <tr>
+            <th colspan="4">Camera's (overigen)</th>
+          </tr>
+          <tr>
+            <th>Nummer</th>
+            <th>Naam</th>
+            <th>Latitude</th>
+            <th>Longitude</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Camera's... -->
+        </tbody>
+      </table>
+    </div>
+  </main>
+  <div id="source">
+    source:
+    <a href="https://data.overheid.nl/dataset/utrecht-cameraregister-utrecht">https://data.overheid.nl/dataset/utrecht-cameraregister-utrecht</a>
+  </div>
+</body>
+
+</html>
