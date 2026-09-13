@@ -1,0 +1,15 @@
+/home/celeste/npo-id_everybody-codes/CameraApiClient/bin/Debug/net10.0/CameraApiClient
+/home/celeste/npo-id_everybody-codes/CameraApiClient/bin/Debug/net10.0/CameraApiClient.deps.json
+/home/celeste/npo-id_everybody-codes/CameraApiClient/bin/Debug/net10.0/CameraApiClient.runtimeconfig.json
+/home/celeste/npo-id_everybody-codes/CameraApiClient/bin/Debug/net10.0/CameraApiClient.dll
+/home/celeste/npo-id_everybody-codes/CameraApiClient/bin/Debug/net10.0/CameraApiClient.pdb
+/home/celeste/npo-id_everybody-codes/CameraApiClient/obj/Debug/net10.0/CameraApiClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/celeste/npo-id_everybody-codes/CameraApiClient/obj/Debug/net10.0/CameraApiClient.AssemblyInfoInputs.cache
+/home/celeste/npo-id_everybody-codes/CameraApiClient/obj/Debug/net10.0/CameraApiClient.AssemblyInfo.cs
+/home/celeste/npo-id_everybody-codes/CameraApiClient/obj/Debug/net10.0/CameraApiClient.csproj.CoreCompileInputs.cache
+/home/celeste/npo-id_everybody-codes/CameraApiClient/obj/Debug/net10.0/CameraApiClient.sourcelink.json
+/home/celeste/npo-id_everybody-codes/CameraApiClient/obj/Debug/net10.0/CameraApiClient.dll
+/home/celeste/npo-id_everybody-codes/CameraApiClient/obj/Debug/net10.0/refint/CameraApiClient.dll
+/home/celeste/npo-id_everybody-codes/CameraApiClient/obj/Debug/net10.0/CameraApiClient.pdb
+/home/celeste/npo-id_everybody-codes/CameraApiClient/obj/Debug/net10.0/CameraApiClient.genruntimeconfig.cache
+/home/celeste/npo-id_everybody-codes/CameraApiClient/obj/Debug/net10.0/ref/CameraApiClient.dll

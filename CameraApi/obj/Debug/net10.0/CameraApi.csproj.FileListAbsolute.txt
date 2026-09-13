@@ -31,3 +31,4 @@
 /home/celeste/npo-id_everybody-codes/CameraApi/obj/Debug/net10.0/CameraApi.pdb
 /home/celeste/npo-id_everybody-codes/CameraApi/obj/Debug/net10.0/CameraApi.genruntimeconfig.cache
 /home/celeste/npo-id_everybody-codes/CameraApi/obj/Debug/net10.0/ref/CameraApi.dll
+/home/celeste/npo-id_everybody-codes/CameraApi/obj/Debug/net10.0/CameraApi.sourcelink.json

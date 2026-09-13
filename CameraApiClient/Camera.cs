@@ -1,0 +1,1 @@
+public record class Camera(string Name, float latitude, float longitude);
