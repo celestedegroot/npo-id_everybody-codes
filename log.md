@@ -8,4 +8,7 @@ Om deze tijd ben ik begonnen met researchen en een start te maken aan een API in
 Heb ik de github repo aangemaakt met de eerste versie van de API. (Had ik al moeten doen voor de eerste revisie maar was ik vergeten)
 
 ## 18:18
-Neem ik een pauze na de eerste revisie om een vers perspectief te krijgen.
+Neem ik een pauze na de eerste revisie om te eten en een vers perspectief te krijgen.
+
+## 19:50
+Terug van pauze en begin met een .NET Client
