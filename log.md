@@ -11,4 +11,7 @@ Heb ik de github repo aangemaakt met de eerste versie van de API. (Had ik al moe
 Neem ik een pauze na de eerste revisie om te eten en een vers perspectief te krijgen.
 
 ## 19:50
-Terug van pauze en begin met een .NET Client
+Terug van pauze en begin met een .NET Client.
+
+## 20:37
+De .NET Client is in werkende staat en ik begin aan de web-interface.
