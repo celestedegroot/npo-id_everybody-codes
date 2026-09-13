@@ -15,3 +15,6 @@ Terug van pauze en begin met een .NET Client.
 
 ## 20:37
 De .NET Client is in werkende staat en ik begin aan de web-interface.
+
+## 22:05
+Ben ik gestopt, web-interface is niet werkend
