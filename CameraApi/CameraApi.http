@@ -1,9 +1,6 @@
 @CameraApi_HostAddress = http://localhost:5111
 
-GET {{CameraApi_HostAddress}}/weatherforecast/
+GET {{CameraApi_HostAddress}}/csvfile/
 Accept: application/json
 
 ###
-
-GET {{CameraApi_HostAddress}}/csvfile/
-Accept: application/json
