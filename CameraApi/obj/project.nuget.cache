@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BGZ1fivGHrA=",
+  "success": true,
+  "projectFilePath": "/home/celeste/npo-id_everybody-codes/CameraApi/CameraApi.csproj",
+  "expectedPackageFiles": [
+    "/home/celeste/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "/home/celeste/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
